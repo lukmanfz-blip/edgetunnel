@@ -3,4 +3,4 @@ main = "./cf-worker-http-header.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-UUID = "example_dev_token"
+UUID = "4ae758ab-8709-4fd3-89fc-793eaa77798b"
