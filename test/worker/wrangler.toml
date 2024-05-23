@@ -3,4 +3,4 @@ main = "./cf-worker-http-header.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-UUID = "4ae758ab-8709-4fd3-89fc-793eaa77798b"
+UUID = "d2f9d1ee-7ee2-4880-8539-2678b6fe017f"
